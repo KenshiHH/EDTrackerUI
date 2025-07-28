@@ -9,4 +9,4 @@ Just download EDTrackerUI4_github.exe and move it to the EDTrackerUI404 folder.
 
 
 
-Thanks to https://github.com/brumster/EDTracker2 for hosting the firmware and EDTracker binary.
+Thanks to https://github.com/brumster/EDTracker2 for hosting the firmware and EDTrackerUI binary.
